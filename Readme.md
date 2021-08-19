@@ -38,7 +38,7 @@
   &emsp;
     <a href="https://www.oracle.com "><img alt="Oracle" src ="https://img.shields.io/badge/oracle-%2307405e.svg?style=flat&logo=oracle&logoColor=white"/></a>
   &emsp;
-    <a href="https://www.microsoft.com/en-us/sql-server"><img alt="Sql Server" src="https://img.shields.io/badge/sqlseraver%20Pages-%23327FC7.svg?style=flat&llogo=sqlserver&logoColor=white"></a>
+    <a href="https://www.microsoft.com/en-us/sql-server"><img alt="Sql Server" src="https://img.shields.io/badge/sql server-%23327FC7.svg?style=flat&llogo=sqlserver&logoColor=white"></a>
   &emsp;
     <a href="https://www.mongodb.com"><img alt="MongoDb" src="https://img.shields.io/badge/Mongodb%20-%23430098.svg?logo=mongodb&logoColor=white"></a>  
   &emsp;
