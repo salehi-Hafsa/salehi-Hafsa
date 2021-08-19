@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi , I'm Salehi Hafsa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Engineering+Student;Data+business+Analysis+student;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Engineering+Student;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 <h4 align="center">I am a computer science student, and currently an exchange student at the aalto university in finland, I am interested in the field of data/bi . I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas and spreading knowledge and positivity.</h4>
@@ -38,11 +38,11 @@
   &emsp;
     <a href="https://www.oracle.com "><img alt="Oracle" src ="https://img.shields.io/badge/oracle-%2307405e.svg?style=flat&logo=oracle&logoColor=white"/></a>
   &emsp;
-    <a href="https://www.microsoft.com/en-us/sql-server"><img alt="Sql Server" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=sqlserver&logoColor=white"></a>
+    <a href="https://www.microsoft.com/en-us/sql-server"><img alt="Sql Server" src="https://img.shields.io/badge/sqlseraver%20Pages-%23327FC7.svg?style=flat&llogo=sqlserver&logoColor=white"></a>
   &emsp;
-    <a href="https://www.mongodb.com"><img alt="MongoDb" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=mongodb&logoColor=white"></a>  
+    <a href="https://www.mongodb.com"><img alt="MongoDb" src="https://img.shields.io/badge/Mongodb%20-%23430098.svg?logo=mongodb&logoColor=white"></a>  
   &emsp;
-    <a href="https://neo4j.com/"><img alt="Neo4j" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=neo4j&logoColor=white"></a>
+    <a href="https://neo4j.com/"><img alt="Neo4j" src ="https://img.shields.io/badge/Neo4j-%23316192.svg?logo=neo4j&logoColor=white"></a>
  </p>
   
 ### 👉Datawarehouse & Datavisualization
